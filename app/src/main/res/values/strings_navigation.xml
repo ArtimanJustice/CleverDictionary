@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Navigation & Icons -->
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="library">Library</string>
+    <string name="home_icon">Home Icon</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="library_icon">Library Icon</string>
+    <string name="edit_icon_image">Edit Icon Image</string>
+</resources>

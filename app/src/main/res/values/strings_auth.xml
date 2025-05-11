@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id">185355930282-uk67hcug16d80metq0m32d7nla16ls4v.apps.googleusercontent.com</string>
+
+    <string name="email_input_field_name">Email</string>
+    <string name="password_input_field_name">Password</string>
+    <string name="forgot_password_button_text">Forgot Password?</string>
+    <string name="sign_in_button_text">Sign In</string>
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="email_text_field_description">Input your email address</string>
+    <string name="password_text_field_description">Input your password</string>
+    <string name="hide_password_button_description">Hide password</string>
+    <string name="show_password_button_description">Show password</string>
+    <string name="don_t_have_an_account_text">Don\'t have an account? Sign Up</string>
+    <string name="already_have_an_account_sign_in_text">Already have an account? Sign In</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="empty_credentials_error">Email or password cannot be empty</string>
+    <string name="empty_email_error">Please enter an email address</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="email_already_exist_error">Email already exists</string>
+    <string name="incorrect_email_and_password_error">Incorrect email or password</string>
+    <string name="incorrect_email_error">Incorrect email</string>
+    <string name="unknown_sign_up_error">Problems with registration</string>
+    <string name="unknown_sign_in_error">Unknown sign in error</string>
+    <string name="email_not_verified_error">Please verify your email address to sign in</string>
+    <string name="reset_link_sent_message">Reset link sent to your email</string>
+    <string name="registration_success_message">Registration successful! Please check your email.</string>
+    <string name="confirm_your_registration_using_email">Confirm your registration using email</string>
+</resources>

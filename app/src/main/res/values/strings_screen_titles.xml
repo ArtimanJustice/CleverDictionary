@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Screen Titles -->
+    <string name="items_screen">Items Screen</string>
+    <string name="add_item_screen">Add Item Screen</string>
+    <string name="edit_item_screen">Edit Item Screen</string>
+    <string name="profile_screen_name">Profile</string>
+    <string name="create_set_screen_name">Create Set</string>
+    <string name="edit_set_screen_name">Edit Set</string>
+    <string name="learn_set_screen_name">Learn Your Set</string>
+</resources>

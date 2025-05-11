@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185355930282",
+    "project_id": "matcha-word",
+    "storage_bucket": "matcha-word.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185355930282:android:fd553f34136efb9eb25ed3",
+        "android_client_info": {
+          "package_name": "com.artiuil.lab.cleverdictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185355930282-5bko8gosq3pb5vhe83lk7694k32jqhq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.artiuil.lab.cleverdictionary",
+            "certificate_hash": "b4f2b5f720147334848eeb85f46fef4d5f346fba"
+          }
+        },
+        {
+          "client_id": "185355930282-uk67hcug16d80metq0m32d7nla16ls4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeo8UQNfHA-l03prX7cvgCyZSiWcyvS_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185355930282-uk67hcug16d80metq0m32d7nla16ls4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CleverDictionary"
+rootProject.name = "Matcha Word"
 include(":app")
- 

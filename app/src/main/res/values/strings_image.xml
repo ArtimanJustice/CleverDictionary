@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_image_source_text">Select image source</string>
+    <string name="gallery_button_description">Gallery Button</string>
+    <string name="camera_button_description">Camera Button</string>
+    <string name="camera_permission_denied_message">Camera permission denied</string>
+</resources>

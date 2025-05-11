@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="library_screen_name">Library</string>
+    <string name="add_set_button_content_description">Add Set</string>
+    <string name="library_unknown_error">An unknown error occurred.</string>
+    <string name="library_network_error">Network error. Please try again later.</string>
+    <string name="terms">terms</string>
+    <string name="set_image_content_description">Set Image</string>
+    <string name="edit_set_content_description">Edit Set</string>
+    <string name="delete_set_content_description">Delete Set</string>
+</resources>
